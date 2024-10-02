@@ -40,12 +40,12 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/dreadlord-sedai/Tesla-Clone.git
+    git clone https://github.com/dreadlord-sedai/Navajo.git
     ```
 
 2. **Navigate to the project directory**:
     ```sh
-    cd Tesla-Clone
+    cd Navajo
     ```
 
 3. **Open `index.html` in your browser**:
