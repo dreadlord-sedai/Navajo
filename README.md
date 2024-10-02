@@ -1,6 +1,6 @@
 # Navajo Landing Site
 
-![Navajo]()
+![Navajo](Screenshot202410-02105714.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
